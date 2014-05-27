@@ -28,8 +28,10 @@
 **项目地址**
 Github: <https://github.com/lvwzhen/Git-Tutorial>
 
-Pdf 版： <https://github.com/numbbbbb/Git-Tutorial-By-liaoxuefeng>
+APP:  <https://itunes.apple.com/cn/app/git-jiao-cheng/id876420437>
 
-Epub 版： <https://raw.githubusercontent.com/lvwzhen/Git-Tutorial/gh-pages/git-tutorial.epub>
+PDF: <https://github.com/numbbbbb/Git-Tutorial-By-liaoxuefeng>
+
+Epub: <https://raw.githubusercontent.com/lvwzhen/Git-Tutorial/gh-pages/git-tutorial.epub>
 
 Gitbook: <https://www.gitbook.io/book/lvwzhen/Git-Tutorial/>
