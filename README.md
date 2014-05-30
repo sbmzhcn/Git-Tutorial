@@ -35,3 +35,5 @@ PDF: <https://github.com/numbbbbb/Git-Tutorial-By-liaoxuefeng>
 Epub: <https://raw.githubusercontent.com/lvwzhen/Git-Tutorial/gh-pages/git-tutorial.epub>
 
 Gitbook: <https://www.gitbook.io/book/lvwzhen/Git-Tutorial/>
+
+*此教程由廖雪峰老师原创，本项目仅为gitbook在线版本。*
