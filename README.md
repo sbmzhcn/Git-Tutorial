@@ -21,9 +21,9 @@
 
 廖雪峰，十年软件开发经验，业余产品经理，精通Java/Python/Ruby/Visual Basic/Objective C等，对开源框架有深入研究，著有《Spring 2.0核心技术与最佳实践》一书，多个业余开源项目托管在[GitHub](https://github.com/michaelliao).
 
-**电子书作者**
+**作者联系方式**
 
-<https://github.com/lvwzhen/>
+[GitHub](https://github.com/michaelliao)
 
 **项目地址**
 Github: <https://github.com/lvwzhen/Git-Tutorial>
